@@ -34,7 +34,7 @@
 </div>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=lim-youn-ho&show_icons=true&hide=stars,contribs&count_private=true&theme=dark&line_height=24" style="width: 400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=lim-youn-ho&show_icons=true&hide=stars,contribs&count_private=true&theme=dark&line_height=30" style="width: 400px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lim-youn-ho&layout=compact&theme=dark&langs_count=6"style="width: 300px">
 </div>
 
